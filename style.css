@@ -1,0 +1,35 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Nunito Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.cx_texto{
+    width: 90%; 
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+    outline: none;
+    border: 1px solid #ccc8c8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.botao{
+    width: 300px;
+    background-color: goldenrod;
+    border: 1px solid #ccc8c8;
+    font-family: 'Asap Condensed', sans-serif;
+}
+form{
+    width: 80%;
+    font-size:15px;
+}
+
+#formulario{
+    background-color: whitesmoke;
+}
